@@ -11,7 +11,7 @@ int main()
 	 int step = 1, N;
 	 printf("\nEnter value of x0:\n");
 	 scanf("%f",&x0);
-	 printf("\nEnter value of x0:\n");
+	 printf("\nEnter value of x1:\n");
 	 scanf("%f",&x1);
 	 printf("\nEnter tolerable error:\n");
 	 scanf("%f", &e);
